@@ -1,16 +1,28 @@
-## Hi there 👋
+### 👋 Hi, I'm Mads ###
 
-<!--
-**madsoverby/madsoverby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 I enjoy working with **Python, Raspberry Pi, and automation**
+🔧 I like building small hardware + software projects
+
+
+
+## 🛠️ Tech & Tools
+
+* **Languages:** Python, Bash, a bit of C++ (Arduino)
+* **Hardware:** Raspberry Pi, ESP32, Arduino
+* **Other:** Git, Linux, Home Assistant
+
+
+## 🌱 Currently learning
+
+* Better Git & GitHub workflows
+* Python
+
+
+## 📫 Contact
+
+* GitHub: https://github.com/madsoverby
+
+
+⭐ *Thanks for visiting my profile!*
