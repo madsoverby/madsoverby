@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Mads ###
+# 👋 Hi, I'm Mads #
 
 
 
@@ -17,7 +17,7 @@
 ## 🌱 Currently learning
 
 * Better Git & GitHub workflows
-* Python
+* More advanced Python
 
 
 ## 📫 Contact
