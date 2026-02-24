@@ -3,8 +3,7 @@
 # 👋 Hi, I'm Mads #
 
 
-
-💻 I enjoy working with 
+## 💻 I enjoy working with ##
 
 [![Stack](https://skillicons.dev/icons?i=python,raspberrypi,arduino)](https://skillicons.dev)
 
