@@ -4,7 +4,8 @@
 
 
 
-💻 I enjoy working with **Python, Raspberry Pi, and automation**
+💻 I enjoy working with [![Stack](https://skillicons.dev/icons?i=python,raspberrypi,arduino)](https://skillicons.dev)
+
 🔧 I like building small hardware + software projects
 
 
@@ -25,6 +26,6 @@
 ## 📫 Contact
 
 * GitHub: https://github.com/madsoverby
-
+* Mail: mads@overbyklanen.dk
 
 ⭐ *Thanks for visiting my profile!*
