@@ -29,4 +29,6 @@
 * GitHub: https://github.com/madsoverby
 * Email: mads@overbyklanen.dk
 
+![](https://komarev.com/ghpvc/?username=madsoverby&color=grey&abbreviated=true)
+
 ⭐ *Thanks for visiting my profile!*
