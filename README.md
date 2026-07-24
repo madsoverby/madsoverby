@@ -22,11 +22,11 @@
 
 * Better Git & GitHub workflows
 * More advanced Python
+* Better Linux Terminal navigation
 
 
 ## 📫 Contact
-
-* GitHub: https://github.com/madsoverby
+* Discord ![Discord](https://img.shields.io/badge/gattoking-%235865F2?style=for-the-badge&logo=discord&logoColor=white)
 * Email: mads@overbyklanen.dk
 
 ![](https://komarev.com/ghpvc/?username=madsoverby&color=grey&abbreviated=true)
